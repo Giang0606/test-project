@@ -1,1 +1,1 @@
-Implement PKA-1267: Update character.variations for English locale
+Implement PKA-1267: Update character.variations for English locale   
